@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tourist Events Calendar</title>
+</head>
+<body>
+  <h1>Upcoming Tourist Events</h1>
+  <table border="1">
+    <thead>
+      <tr>
+        <th>Date</th>
+        <th>Event</th>
+        <th>Location</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>July 20, 2024</td>
+        <td>Food & Wine Festival</td>
+        <td>Nashik</td>
+      </tr>
+      <tr>
+        <td>August 10, 2024</td>
+        <td>Art in the Park</td>
+        <td>Kerala</td>
+      </tr>
+      <tr>
+        <td>August 15, 2024</td>
+        <td>Historical Walking Tour</td>
+        <td>Delhi</td>
+      </tr>
+      <tr>
+        <td>September 5, 2024</td>
+        <td>Live Music Concert</td>
+        <td>Mumbai</td>
+      </tr>
+      <tr>
+        <td>September 21, 2024</td>
+        <td>Cultural Festival</td>
+        <td>Kolkata</td>
+      </tr>
+      <tr>
+        <td>October 12, 2024</td>
+        <td>Stargazing Night</td>
+        <td>Ladakh</td>
+      </tr>
+      <tr>
+        <td>October 26, 2024</td>
+        <td>Halloween Parade</td>
+        <td>Goa</td>
+      </tr>
+      <tr>
+        <td>November 9, 2024</td>
+        <td>Craft Fair & Market</td>
+        <td>Jaipur</td>
+    </tbody>
+  </table>
+</body>
+</html>
